@@ -1,7 +1,7 @@
 # adjusted-mf
 This repository contains the code of the experiments described in "Misalignment problem in matrix decomposition with missing values" by Sofia Fernandes, Mário Antunes, Diogo Gomes and Rui L. Aguiar
 
-## Installation
+## Requirements
 The code is written in Python 3.6. To install the required libraries run:
 ```
 pip install -r requeriments.txt

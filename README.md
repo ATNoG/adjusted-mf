@@ -9,7 +9,7 @@ pip install -r requeriments.txt
 
 ## Usage
 ### Datasets
-The datasets used are publicly available, and should be downloaded and renamed as follows:
+Except for the indoor climate dataset, the datasets used are publicly available, and should be downloaded and renamed as follows:
 - the gas sensor dataset is available [here](https://archive.ics.uci.edu/ml/machine-learning-databases/00309/dataset_two_gas_sources_.zip) -  the file should be unzipped into folder experiments_on_gas_sensor_dataset/data/gas_sensor
 - daily average temperature datasets should be downloaded using the script get_noaa_temp_data.R at experiments_on_temperature_datasets/data, along with a token that should be requested at [NOAA's  National Climatic Data Center](https://www.ncdc.noaa.gov/cdo-web/token)
 - [Seattle traffic dataset](https://github.com/zhiyongc/Seattle-Loop-Data) can be obtained from [here](https://raw.github.com/xinychen/transdim/master/datasets/Seattle-data-set/mat.csv) - the file should renamed to 'seattle.csv' and placed at experiments_on_traffic_datasets/data

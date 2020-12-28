@@ -18,7 +18,7 @@ Except for the indoor climate dataset, the datasets used are publicly available,
 The daily average temperature and traffic datasets require further preprocessing that is carried out by running the preprocessing scripts (found in the corresponding 'data' folders).
 
 ### Run
-The experiments scripts should be run in the corresponding experiment folder, for example to run the experiments on the gas sensor data, run:
+After downloading and preprocessing the datasets as previously indicated, the experiments scripts should be run in the corresponding experiment folder, for example to run the experiments on the gas sensor data, run:
 ```
 cd experiments_on_gas_sensor
 mkdir results
